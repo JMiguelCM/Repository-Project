@@ -1,0 +1,49 @@
+.formacion__container {
+  background-color: #eaf2fd;
+  padding: 2rem 0 4rem;
+}
+
+.cards__formacion {
+  display: flex;
+  justify-content: center;
+}
+
+.formacion__card__container {
+  margin-top: 3rem;
+  margin-right: 2rem;
+  align-items: center;
+}
+
+.formacion__h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #464646;
+  text-align: center;
+}
+
+.formacion__item {
+  background-color: white;
+  width: 348px;
+  height: 266px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formacion__img {
+  margin-top: 1.5rem;
+}
+
+.formacion__estudio {
+  margin-top: 1rem;
+  font-size: 22px;
+  font-weight: bold;
+  color: #464646;
+}
+
+.formacion__fecha {
+  font-size: 16px;
+  margin-top: .5rem;
+  color: #464646;
+}

@@ -1,0 +1,18 @@
+.sobre__container {
+  background-color: #eaf2fd;
+  padding: 4rem 0 5rem;
+}
+.sobre__titulo {
+  width: 55%;
+  font-size: 32px;
+  font-weight: bold;
+  margin-left: 2.5rem;
+  color: #464646;
+}
+
+.sobre__texto {
+  width: 65%;
+  font-size: 16px;
+  color: #464646;
+  margin: 1.5rem 2.5rem;
+}

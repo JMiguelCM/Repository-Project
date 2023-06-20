@@ -1,0 +1,38 @@
+.skills__container {
+  background-color: #f5f5f5;
+  padding: 2rem 0 4rem;
+}
+
+.skills__h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #464646;
+  text-align: center;
+}
+
+.cards__skills {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.cards__skills__item {
+  background-color: white;
+  width: 170px;
+  height: 170px;
+  margin-top: 2rem;
+  border-radius: 5px;
+}
+
+.cards__skills__item img {
+  margin-top: 90px;
+  margin-left: 10px;
+}
+
+.cards__skills__item p {
+  font-size: 16px;
+  font-weight: bold;
+  color: #464646;
+  margin-left: 15px;
+}

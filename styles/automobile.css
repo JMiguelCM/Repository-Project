@@ -1,0 +1,41 @@
+.automobile {
+  display: flex;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  background-color: #f5f5f5;
+  justify-content: center;
+}
+
+.repositorio__demo__container__2 {
+  margin-top: 7rem;
+  margin-left: 1rem;
+}
+
+.repositorio__demo__container__2 h3 {
+  font-size: 22px;
+  color: #464646;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.repositorio__demo__container__2 h4 {
+  font-size: 16px;
+  color: #464646;
+  margin-bottom: 1rem;
+}
+
+.btn__repositorio {
+  width: 116px;
+  height: 51px;
+  background-color: #f5f5f5;
+  border: 1px solid #2a7ae4;
+  color: #2a7ae4;
+}
+
+.btn__demo {
+  width: 105px;
+  height: 51px;
+  background-color: #2a7ae4;
+  border: none;
+  color: #ffffff;
+}
